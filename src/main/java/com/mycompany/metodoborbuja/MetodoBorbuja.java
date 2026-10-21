@@ -6,7 +6,7 @@ package com.mycompany.metodoborbuja;
 
 /**
  *
- * @author angel
+ * @author angel angelino Gonzalez
  */
 public class MetodoBorbuja {
 
